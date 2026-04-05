@@ -1,0 +1,66 @@
+
+
+body {
+background-color: #fff;
+
+}
+.all_products_pagination {
+  margin:0 auto;
+}
+.login_form{
+    margin:0 auto;
+}
+.forget_passord_form{
+    margin:0 auto;
+}
+
+.resset_password_form{
+    margin:0 auto; 
+}
+.Signup_form{
+    margin:0 auto; 
+}
+
+
+.change_password_form{
+    margin: 0 auto;
+}
+.track_order_form{
+    margin: 0 auto;
+}
+
+
+.checkout_form{
+    margin-left: 100px;
+}
+.edite_profile_form{
+    margin: 0 auto ;
+}
+
+.profile_img, .profil_info,.order_info {
+    display: block;
+    margin: 0 auto ;
+    text-align: center;
+
+}
+.review_img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.review_img_div{
+text-align: center;
+}
+
+.product_img{
+max-height:120px;
+margin-top:5px;
+}
+
+.pagination{
+margin : 0 auto;
+border-radius: 20%;
+}
+
+
